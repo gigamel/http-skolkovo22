@@ -1,0 +1,17 @@
+{
+    "name": "gigamel/http-skolkovo22",
+    "description": "Http protocol",
+    "homepage": "https://github.com/gigamel/http-skolkovo22",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Aleksey Sh"
+        }
+    ],
+    "require": {
+        "php": ">=8.0.0"
+    },
+    "autoload": {
+        "psr-0": {"Skolkovo22": "src/"}
+    }
+}
